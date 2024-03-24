@@ -1,2 +1,2 @@
-name: dog
+name: choco
 age: 5
