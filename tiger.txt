@@ -1,3 +1,0 @@
-name: sangoon
-age: 21
-sex: m
