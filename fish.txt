@@ -1,4 +1,4 @@
 name: fish
-age: 4
+age: 3
 sex: m
 master: kim
