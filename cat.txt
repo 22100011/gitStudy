@@ -1,3 +1,4 @@
 name: kiw
 age: 5
 sex: m
+master: san
