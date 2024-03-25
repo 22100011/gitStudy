@@ -1,4 +1,4 @@
 name: gugu
-age: 31
+age: 4
 sex: m
 master: kang

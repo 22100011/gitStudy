@@ -1,4 +1,4 @@
 name: choco
-age: 5
+age: 2
 sex: m
 master: gyu

@@ -1,4 +1,4 @@
 name: kiw
-age: 5
+age: 1
 sex: m
 master: san
